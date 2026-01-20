@@ -1,0 +1,583 @@
+{
+  "users": {
+    "6285860583601": {
+      "jid": "6285860583601",
+      "name": "wann",
+      "number": "6285860583601",
+      "limit": 25,
+      "isPremium": false,
+      "isBanned": false,
+      "exp": 0,
+      "level": 1,
+      "balance": 0,
+      "unlockedFeatures": [],
+      "registeredAt": "2026-01-14T17:20:15.735Z",
+      "lastSeen": "2026-01-20T16:46:13.230Z",
+      "cooldowns": {}
+    },
+    "6285607234084": {
+      "jid": "6285607234084",
+      "name": "Samara",
+      "number": "6285607234084",
+      "limit": 25,
+      "isPremium": false,
+      "isBanned": false,
+      "exp": 0,
+      "level": 1,
+      "balance": 0,
+      "unlockedFeatures": [],
+      "registeredAt": "2026-01-14T18:14:48.910Z",
+      "lastSeen": "2026-01-14T18:14:51.978Z",
+      "cooldowns": {}
+    },
+    "6283897389816": {
+      "jid": "6283897389816",
+      "name": "Ambaleon Bonaparte🇫🇷",
+      "number": "6283897389816",
+      "limit": 25,
+      "isPremium": false,
+      "isBanned": false,
+      "exp": 0,
+      "level": 1,
+      "balance": 0,
+      "unlockedFeatures": [],
+      "registeredAt": "2026-01-14T19:37:50.153Z",
+      "lastSeen": "2026-01-14T19:37:50.153Z",
+      "cooldowns": {}
+    },
+    "224624558444": {
+      "jid": "224624558444",
+      "name": "Envy.",
+      "number": "224624558444",
+      "limit": 25,
+      "isPremium": false,
+      "isBanned": false,
+      "exp": 0,
+      "level": 1,
+      "balance": 0,
+      "unlockedFeatures": [],
+      "registeredAt": "2026-01-14T20:10:28.217Z",
+      "lastSeen": "2026-01-14T20:10:28.217Z",
+      "cooldowns": {}
+    },
+    "6282254659645": {
+      "jid": "6282254659645",
+      "name": "zaqi",
+      "number": "6282254659645",
+      "limit": 25,
+      "isPremium": false,
+      "isBanned": false,
+      "exp": 0,
+      "level": 1,
+      "balance": 0,
+      "unlockedFeatures": [],
+      "registeredAt": "2026-01-15T00:09:11.884Z",
+      "lastSeen": "2026-01-15T02:12:36.447Z",
+      "cooldowns": {}
+    },
+    "6285771093649": {
+      "jid": "6285771093649",
+      "name": "18.fr",
+      "number": "6285771093649",
+      "limit": 25,
+      "isPremium": false,
+      "isBanned": false,
+      "exp": 0,
+      "level": 1,
+      "balance": 0,
+      "unlockedFeatures": [],
+      "registeredAt": "2026-01-15T00:14:58.219Z",
+      "lastSeen": "2026-01-15T00:14:58.219Z",
+      "cooldowns": {}
+    },
+    "6282279041092": {
+      "jid": "6282279041092",
+      "name": "Pppp",
+      "number": "6282279041092",
+      "limit": 25,
+      "isPremium": false,
+      "isBanned": false,
+      "exp": 0,
+      "level": 1,
+      "balance": 0,
+      "unlockedFeatures": [],
+      "registeredAt": "2026-01-15T00:15:45.037Z",
+      "lastSeen": "2026-01-15T05:11:08.668Z",
+      "cooldowns": {}
+    },
+    "628568335376": {
+      "jid": "628568335376",
+      "name": "Ari",
+      "number": "628568335376",
+      "limit": 25,
+      "isPremium": false,
+      "isBanned": false,
+      "exp": 0,
+      "level": 1,
+      "balance": 0,
+      "unlockedFeatures": [],
+      "registeredAt": "2026-01-15T00:22:57.134Z",
+      "lastSeen": "2026-01-15T00:22:57.134Z",
+      "cooldowns": {}
+    },
+    "6281389698986": {
+      "jid": "6281389698986",
+      "name": "Jw",
+      "number": "6281389698986",
+      "limit": 25,
+      "isPremium": false,
+      "isBanned": false,
+      "exp": 0,
+      "level": 1,
+      "balance": 0,
+      "unlockedFeatures": [],
+      "registeredAt": "2026-01-15T00:28:09.823Z",
+      "lastSeen": "2026-01-15T00:28:09.823Z",
+      "cooldowns": {}
+    },
+    "6283175968427": {
+      "jid": "6283175968427",
+      "name": "P",
+      "number": "6283175968427",
+      "limit": 25,
+      "isPremium": false,
+      "isBanned": false,
+      "exp": 0,
+      "level": 1,
+      "balance": 0,
+      "unlockedFeatures": [],
+      "registeredAt": "2026-01-15T01:06:16.080Z",
+      "lastSeen": "2026-01-15T03:58:31.323Z",
+      "cooldowns": {}
+    },
+    "62895410631858": {
+      "jid": "62895410631858",
+      "name": "Andre",
+      "number": "62895410631858",
+      "limit": 25,
+      "isPremium": false,
+      "isBanned": false,
+      "exp": 0,
+      "level": 1,
+      "balance": 0,
+      "unlockedFeatures": [],
+      "registeredAt": "2026-01-15T01:15:24.730Z",
+      "lastSeen": "2026-01-15T01:32:08.061Z",
+      "cooldowns": {}
+    },
+    "6282138129170": {
+      "jid": "6282138129170",
+      "name": "Zxyenn.",
+      "number": "6282138129170",
+      "limit": 25,
+      "isPremium": false,
+      "isBanned": false,
+      "exp": 0,
+      "level": 1,
+      "balance": 0,
+      "unlockedFeatures": [],
+      "registeredAt": "2026-01-15T01:39:17.144Z",
+      "lastSeen": "2026-01-15T01:39:17.143Z",
+      "cooldowns": {}
+    },
+    "6288210438701": {
+      "jid": "6288210438701",
+      "name": "only, azkaa",
+      "number": "6288210438701",
+      "limit": 25,
+      "isPremium": false,
+      "isBanned": false,
+      "exp": 0,
+      "level": 1,
+      "balance": 0,
+      "unlockedFeatures": [],
+      "registeredAt": "2026-01-15T01:55:23.110Z",
+      "lastSeen": "2026-01-15T01:55:26.157Z",
+      "cooldowns": {}
+    },
+    "6285756334575": {
+      "jid": "6285756334575",
+      "name": "aniindya ‹𝟹",
+      "number": "6285756334575",
+      "limit": 25,
+      "isPremium": false,
+      "isBanned": false,
+      "exp": 0,
+      "level": 1,
+      "balance": 0,
+      "unlockedFeatures": [],
+      "registeredAt": "2026-01-15T01:55:26.928Z",
+      "lastSeen": "2026-01-15T03:59:28.324Z",
+      "cooldowns": {}
+    },
+    "6283841435684": {
+      "jid": "6283841435684",
+      "name": "P",
+      "number": "6283841435684",
+      "limit": 25,
+      "isPremium": false,
+      "isBanned": false,
+      "exp": 0,
+      "level": 1,
+      "balance": 0,
+      "unlockedFeatures": [],
+      "registeredAt": "2026-01-15T02:17:53.055Z",
+      "lastSeen": "2026-01-15T02:18:10.780Z",
+      "cooldowns": {}
+    },
+    "6288983839359": {
+      "jid": "6288983839359",
+      "name": "cheyyssaaa bkn sitiiiiiii",
+      "number": "6288983839359",
+      "limit": 25,
+      "isPremium": false,
+      "isBanned": false,
+      "exp": 0,
+      "level": 1,
+      "balance": 0,
+      "unlockedFeatures": [],
+      "registeredAt": "2026-01-15T02:21:56.309Z",
+      "lastSeen": "2026-01-15T02:21:56.309Z",
+      "cooldowns": {}
+    },
+    "6283833689719": {
+      "jid": "6283833689719",
+      "name": "asep",
+      "number": "6283833689719",
+      "limit": 25,
+      "isPremium": false,
+      "isBanned": false,
+      "exp": 0,
+      "level": 1,
+      "balance": 0,
+      "unlockedFeatures": [],
+      "registeredAt": "2026-01-15T05:12:28.049Z",
+      "lastSeen": "2026-01-15T05:12:28.049Z",
+      "cooldowns": {}
+    },
+    "93355459506324": {
+      "jid": "93355459506324",
+      "name": "wann",
+      "number": "93355459506324",
+      "limit": 24,
+      "isPremium": false,
+      "isBanned": false,
+      "exp": 0,
+      "level": 1,
+      "balance": 0,
+      "unlockedFeatures": [],
+      "registeredAt": "2026-01-20T16:10:39.642Z",
+      "lastSeen": "2026-01-20T16:10:39.642Z",
+      "cooldowns": {}
+    },
+    "6283133159278": {
+      "jid": "6283133159278",
+      "name": "-> RanZ <-",
+      "number": "6283133159278",
+      "limit": 25,
+      "isPremium": false,
+      "isBanned": false,
+      "exp": 0,
+      "level": 1,
+      "balance": 0,
+      "unlockedFeatures": [],
+      "registeredAt": "2026-01-20T16:11:15.511Z",
+      "lastSeen": "2026-01-20T16:43:37.534Z",
+      "cooldowns": {}
+    },
+    "6281542031073": {
+      "jid": "6281542031073",
+      "name": "ㅤㅤㅤㅤㅤㅤ",
+      "number": "6281542031073",
+      "limit": 25,
+      "isPremium": false,
+      "isBanned": false,
+      "exp": 0,
+      "level": 1,
+      "balance": 0,
+      "unlockedFeatures": [],
+      "registeredAt": "2026-01-20T16:11:59.892Z",
+      "lastSeen": "2026-01-20T16:15:40.611Z",
+      "cooldowns": {}
+    },
+    "62881024522415": {
+      "jid": "62881024522415",
+      "name": "gunadi",
+      "number": "62881024522415",
+      "limit": 25,
+      "isPremium": false,
+      "isBanned": false,
+      "exp": 0,
+      "level": 1,
+      "balance": 0,
+      "unlockedFeatures": [],
+      "registeredAt": "2026-01-20T16:12:03.084Z",
+      "lastSeen": "2026-01-20T16:12:03.084Z",
+      "cooldowns": {}
+    },
+    "6285124260266": {
+      "jid": "6285124260266",
+      "name": "??",
+      "number": "6285124260266",
+      "limit": 25,
+      "isPremium": false,
+      "isBanned": false,
+      "exp": 0,
+      "level": 1,
+      "balance": 0,
+      "unlockedFeatures": [],
+      "registeredAt": "2026-01-20T16:24:15.147Z",
+      "lastSeen": "2026-01-20T16:28:56.712Z",
+      "cooldowns": {}
+    },
+    "6283869776649": {
+      "jid": "6283869776649",
+      "name": "araa ga plenger",
+      "number": "6283869776649",
+      "limit": 25,
+      "isPremium": false,
+      "isBanned": false,
+      "exp": 0,
+      "level": 1,
+      "balance": 0,
+      "unlockedFeatures": [],
+      "registeredAt": "2026-01-20T16:24:47.145Z",
+      "lastSeen": "2026-01-20T16:24:47.145Z",
+      "cooldowns": {}
+    },
+    "6287875670632": {
+      "jid": "6287875670632",
+      "name": ".",
+      "number": "6287875670632",
+      "limit": 25,
+      "isPremium": false,
+      "isBanned": false,
+      "exp": 0,
+      "level": 1,
+      "balance": 0,
+      "unlockedFeatures": [],
+      "registeredAt": "2026-01-20T16:29:58.404Z",
+      "lastSeen": "2026-01-20T16:30:04.160Z",
+      "cooldowns": {}
+    },
+    "6283114965925": {
+      "jid": "6283114965925",
+      "name": "princeboy969",
+      "number": "6283114965925",
+      "limit": 25,
+      "isPremium": false,
+      "isBanned": false,
+      "exp": 0,
+      "level": 1,
+      "balance": 0,
+      "unlockedFeatures": [],
+      "registeredAt": "2026-01-20T16:31:47.198Z",
+      "lastSeen": "2026-01-20T16:36:23.812Z",
+      "cooldowns": {}
+    },
+    "6282282448648": {
+      "jid": "6282282448648",
+      "name": "apin Y2k",
+      "number": "6282282448648",
+      "limit": 25,
+      "isPremium": false,
+      "isBanned": false,
+      "exp": 0,
+      "level": 1,
+      "balance": 0,
+      "unlockedFeatures": [],
+      "registeredAt": "2026-01-20T16:37:44.286Z",
+      "lastSeen": "2026-01-20T16:43:23.398Z",
+      "cooldowns": {}
+    },
+    "6288268267949": {
+      "jid": "6288268267949",
+      "name": "rio",
+      "number": "6288268267949",
+      "limit": 25,
+      "isPremium": false,
+      "isBanned": false,
+      "exp": 0,
+      "level": 1,
+      "balance": 0,
+      "unlockedFeatures": [],
+      "registeredAt": "2026-01-20T16:40:24.457Z",
+      "lastSeen": "2026-01-20T16:40:24.457Z",
+      "cooldowns": {}
+    },
+    "6288985812091": {
+      "jid": "6288985812091",
+      "name": "rinn",
+      "number": "6288985812091",
+      "limit": 25,
+      "isPremium": false,
+      "isBanned": false,
+      "exp": 0,
+      "level": 1,
+      "balance": 0,
+      "unlockedFeatures": [],
+      "registeredAt": "2026-01-20T16:43:22.785Z",
+      "lastSeen": "2026-01-20T16:43:42.481Z",
+      "cooldowns": {}
+    }
+  },
+  "groups": {
+    "120363221698499688@g.us": {
+      "jid": "120363221698499688@g.us",
+      "name": "Unknown Group",
+      "welcome": true,
+      "leave": true,
+      "antilink": "on",
+      "antitoxic": false,
+      "mute": false,
+      "warnings": [],
+      "chatStats": {
+        "6285607234084@s.whatsapp.net": {
+          "count": 2,
+          "lastChat": 1768414491979
+        },
+        "6283897389816@s.whatsapp.net": {
+          "count": 1,
+          "lastChat": 1768419470154
+        },
+        "224624558444@s.whatsapp.net": {
+          "count": 1,
+          "lastChat": 1768421428218
+        },
+        "6282254659645@s.whatsapp.net": {
+          "count": 8,
+          "lastChat": 1768443156448
+        },
+        "6285771093649@s.whatsapp.net": {
+          "count": 1,
+          "lastChat": 1768436098219
+        },
+        "6282279041092@s.whatsapp.net": {
+          "count": 7,
+          "lastChat": 1768453868668
+        },
+        "628568335376@s.whatsapp.net": {
+          "count": 1,
+          "lastChat": 1768436577135
+        },
+        "6281389698986@s.whatsapp.net": {
+          "count": 1,
+          "lastChat": 1768436889824
+        },
+        "6283175968427@s.whatsapp.net": {
+          "count": 6,
+          "lastChat": 1768449511324
+        },
+        "62895410631858@s.whatsapp.net": {
+          "count": 2,
+          "lastChat": 1768440728061
+        },
+        "6282138129170@s.whatsapp.net": {
+          "count": 1,
+          "lastChat": 1768441157144
+        },
+        "6288210438701@s.whatsapp.net": {
+          "count": 2,
+          "lastChat": 1768442126158
+        },
+        "6285756334575@s.whatsapp.net": {
+          "count": 3,
+          "lastChat": 1768449568325
+        },
+        "6285860583601@s.whatsapp.net": {
+          "count": 11,
+          "lastChat": 1768925446863
+        },
+        "6283841435684@s.whatsapp.net": {
+          "count": 2,
+          "lastChat": 1768443490780
+        },
+        "6288983839359@s.whatsapp.net": {
+          "count": 1,
+          "lastChat": 1768443716310
+        },
+        "6283833689719@s.whatsapp.net": {
+          "count": 1,
+          "lastChat": 1768453948049
+        },
+        "93355459506324@s.whatsapp.net": {
+          "count": 1,
+          "lastChat": 1768925439642
+        },
+        "6283133159278@s.whatsapp.net": {
+          "count": 28,
+          "lastChat": 1768927417535
+        },
+        "6281542031073@s.whatsapp.net": {
+          "count": 2,
+          "lastChat": 1768925740612
+        },
+        "62881024522415@s.whatsapp.net": {
+          "count": 1,
+          "lastChat": 1768925523084
+        },
+        "6285124260266@s.whatsapp.net": {
+          "count": 4,
+          "lastChat": 1768926536714
+        },
+        "6283869776649@s.whatsapp.net": {
+          "count": 1,
+          "lastChat": 1768926287146
+        },
+        "6287875670632@s.whatsapp.net": {
+          "count": 2,
+          "lastChat": 1768926604171
+        },
+        "6283114965925@s.whatsapp.net": {
+          "count": 2,
+          "lastChat": 1768926983813
+        },
+        "6282282448648@s.whatsapp.net": {
+          "count": 6,
+          "lastChat": 1768927403399
+        },
+        "6288268267949@s.whatsapp.net": {
+          "count": 1,
+          "lastChat": 1768927224457
+        },
+        "6288985812091@s.whatsapp.net": {
+          "count": 2,
+          "lastChat": 1768927422481
+        }
+      }
+    },
+    "120363406074664710@g.us": {
+      "jid": "120363406074664710@g.us",
+      "name": "Unknown Group",
+      "welcome": true,
+      "leave": true,
+      "antilink": false,
+      "antitoxic": false,
+      "mute": false,
+      "warnings": [],
+      "chatStats": {
+        "6285860583601@s.whatsapp.net": {
+          "count": 10,
+          "lastChat": 1768927573230
+        }
+      }
+    }
+  },
+  "settings": {
+    "selfMode": false,
+    "lastLimitReset": "2026-01-15T00:00:00.013Z"
+  },
+  "stats": {
+    "commandsExecuted": 18,
+    "command_menu": 6,
+    "dailyResets": 1,
+    "command_antilink": 1,
+    "command_help": 1,
+    "command_closeset": 9,
+    "command_openset": 1
+  },
+  "sewa": {
+    "enabled": false,
+    "groups": {}
+  }
+}
